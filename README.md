@@ -6,7 +6,7 @@
 
 
 # Dell 7400 Hackintosh
-##### Download EFI: [Releases](https://github.com/Naufal828/Haswell-Hackintosh-RX460/releases)
+##### Download EFI:
 
 # IMPORTANT NOTES!!
 - Before you use this efi, configure smbios on config.plist
