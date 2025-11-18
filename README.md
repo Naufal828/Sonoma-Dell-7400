@@ -9,7 +9,7 @@
 | Geekbench 5 Score                 |            Comment                |
 |----------------------|-----------------------------------|
 | [Geekbench 5](https://browser.geekbench.com/v5/cpu/23905147) | Single Channel|
-| Geekbench 5 coming soon when RAM prices return to normal :b | Dual Channel|
+|  coming soon when RAM prices return to normal :b | Dual Channel|
 
 # IMPORTANT NOTES!!
 - Before you use this efi, configure smbios on config.plist
