@@ -1,5 +1,5 @@
 ![macOS version](https://img.shields.io/static/v1?label=MacOS-Sonoma&message=14.2.1&color=green)
-![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.9-informational.svg)
+![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.7-informational.svg)
 
 
 <img src="https://cdn.jim-nielsen.com/macos/512/macos-sonoma-2023-09-26.png?rf=1024" width="150"/>
