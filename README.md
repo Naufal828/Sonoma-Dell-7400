@@ -65,7 +65,9 @@ and make sure you have your bios settings.
 - [Dortania People](https://github.com/orgs/dortania/people) for the OpenCore Install Guide
 
 ## Screenshot
-<img src="https://github.com/Naufal828/Haswell-Hackintosh-RX460/blob/main/pics/Screenshot 2024-01-09 at 6.02.47 PM.png" width="500"/>
+<img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2014.10.16.png" width="500"/>
+<img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2014.17.57.png" width="500"/>
+
 
 
 
