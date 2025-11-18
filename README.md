@@ -15,53 +15,35 @@ and make sure you have your bios settings.
 
 # Read For Setting your smbios
 - [Platfrom Info ](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo)
-- [Bios Settings](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#intel-bios-settings)
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
-- [Monterey Supported Smbios](https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html#supported-smbios)
-- [Mac OS Installer](https://t.me/HackintoshLover/563870)
 
 
 ## Supported SMBIOS
 | Type                 |            Comment                |
 |----------------------|-----------------------------------|
-| iMac17,1             | Haswell desktops with dGPU        |
-| iMac16,2             | Haswell desktops with only an iGPU|
+| MacBookPro15,2       | Quad Core 15W                     |
 
 ## Bios Settings
 | Settins              |            Comment                |
 |----------------------|-----------------------------------|
-| Fast Boot            | Disable                           |
+| Bios Mode            | UEFI                              |
 | Secure Boot          | Disable                           |
-| Serial/COM Port      | Disable                           |
-| Parallel Port        | Disable                           |
-| SVT-d                | Disable                           |
-| Thunderbolt          | Disable                           |
-| Intel SGX            | Disable                           |
-| Intel Platform Trust | Disable                           |
-| CFG Lock             | Disable                           |
-| VT-x                 | Enable                            |
-| Above 4G decoding    | Enable                            |
-| Hyper-Threading      | Enable                            |
-| Execute Disable Bit  | Enable                            |
-| OS type:             | Other UEFI Mode                   |
-| DVMT Pre-Allocated   | 64Mb                              |
-| SATA Mode            | AHCI.                             |
+| FastBoot             | Minimal                           |
+| SATA Mode            | AHCI                              |
+| Intel SGX            | Software Controled                |
 
 
 ## Hardware
 
 | Type                 | Name                              |
 |----------------------|-----------------------------------|
-| CPU                  | [Intel® Core™ i7-4790](https://ark.intel.com/content/www/id/id/ark/products/80806/intel-core-i74790-processor-8m-cache-up-to-4-00-ghz.html)             |
-| Motherboard          | [Asus B85M-G](https://www.asus.com/supportonly/b85m-g/helpdesk_cpu/)                       |
-| Audio                | [Realtek® Audio Codec ALC887](https://semiconductors.es/datasheet/ALC887.html)       |
-| IGPU                 | [Intel® HD Graphics 4600](https://www.techpowerup.com/gpu-specs/hd-graphics-4600.c1994)           |
-| DGPU                 | [AMD Radeon RX 460 2GB](https://www.gigabyte.com/Graphics-Card/GV-RX460WF2OC-2GD#kf)         |
-| Display              | [DELL SE2719H](https://www.amazon.com/Dell-backlit-Monitor-SE2719H-1080p/dp/B07KW6HFD1)                          |
-| RAM                  | 16GB DDR3 1600Mhz                  |
-| Ethernet             | Realtek® 8111G Gigabit Lan        |
-| Wi-Fi Bluetooth      | [Intel AC 7265](https://www.tokopedia.com/zonabarang/intel-ac7265-ngw-high-speed-wifi-card-pcie-1x-dual-band-bluetooth)                            |
-| Storage              | [Adata SU650 1TB](https://www.tokopedia.com/atkiosk/adata-ultimate-su650-1tb-ssd-sata-2-5-garansi-3-tahun?extParam=ivf%3Dfalse&src=topads)   |
+| CPU                  | [Intel® Core™ i5-8365u](https://www.intel.com/content/www/us/en/products/sku/193555/intel-core-i58365u-processor-6m-cache-up-to-4-10-ghz/specifications.html)             |
+| Audio                | [Realtek® Audio Codec ALC295](https://github.com/acidanthera/applealc/wiki/supported-codecs)       |
+| IGPU                 | [Intel® UHD Graphics 620]         |
+| RAM                  | [8GB DDR4 2400Mhz]                  |
+| Trackpad             | [I2C HID]
+| Wi-Fi Bluetooth      | [Intel AC 9560]                           |
+| Storage              | [TOSHIBA KXG60ZNV256G]   |
 
 ## Patches & Kexts
  - [[Kext] VirtualSMC](https://github.com/acidanthera/VirtualSMC)
