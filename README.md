@@ -39,11 +39,11 @@ and make sure you have your bios settings.
 |----------------------|-----------------------------------|
 | CPU                  | [Intel® Core™ i5-8365u](https://www.intel.com/content/www/us/en/products/sku/193555/intel-core-i58365u-processor-6m-cache-up-to-4-10-ghz/specifications.html)             |
 | Audio                | [Realtek® Audio Codec ALC295](https://github.com/acidanthera/applealc/wiki/supported-codecs)       |
-| IGPU                 | [Intel® UHD Graphics 620]         |
-| RAM                  | [8GB DDR4 2400Mhz]                  |
-| Trackpad             | [I2C HID]
-| Wi-Fi Bluetooth      | [Intel AC 9560]                           |
-| Storage              | [TOSHIBA KXG60ZNV256G]   |
+| IGPU                 | Intel® UHD Graphics 620        |
+| RAM                  | 8GB DDR4 2400Mhz                 |
+| Trackpad             | I2C HID
+| Wi-Fi Bluetooth      | Intel AC 9560                          |
+| Storage              | TOSHIBA KXG60ZNV256G   |
 
 ## Patches & Kexts
  - [[Kext] VirtualSMC](https://github.com/acidanthera/VirtualSMC)
