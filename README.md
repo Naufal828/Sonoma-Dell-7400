@@ -67,10 +67,10 @@ and make sure you have your bios settings.
 ## Screenshot
 <img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2014.10.16.png" width="500"/>
 <img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2014.17.57.png" width="500"/>
-<img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2022.31.47.png" width="500"/>
-<img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2022.31.53.png" width="500"/>
-<img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2022.32.58.png" width="500"/>
-<img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2022.33.19.png" width="500"/>
+<img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2022.31.47.png" width="1000"/>
+<img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2022.31.53.png" width="1000"/>
+<img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2022.32.58.png" width="1000"/>
+<img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2022.33.19.png" width="1000"/>
 
 
 
