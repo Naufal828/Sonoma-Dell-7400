@@ -56,7 +56,7 @@ and make sure you have your bios settings.
 - https://github.com/0xCUB3/About-This-Hack
 
 ## Contact
- - [Contact Us](https://t.me/naufaliosk)
+ - [Contact](https://t.me/naufaliosk)
 
 ## Support Me
  - [For Buy a coffee](https://saweria.co/Naufaal)
