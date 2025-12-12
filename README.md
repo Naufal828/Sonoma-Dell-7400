@@ -11,15 +11,9 @@
 | [Geekbench 5](https://browser.geekbench.com/v5/cpu/23905147) | Single Channel|
 |  coming soon when RAM prices return to normal :b | Dual Channel|
 
-# IMPORTANT NOTES!!
-- Before you use this efi, configure smbios on config.plist
-and make sure you have your bios settings.
-
-
 # Read For Setting your smbios
 - [Platfrom Info ](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo)
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
-
 
 ## Supported SMBIOS
 | Type                 |            Comment                |
@@ -34,7 +28,6 @@ and make sure you have your bios settings.
 | FastBoot             | Minimal                           |
 | SATA Mode            | AHCI                              |
 | Intel SGX            | Software Controled                |
-
 
 ## Hardware
 
