@@ -1,4 +1,4 @@
-![macOS version](https://img.shields.io/static/v1?label=MacOS-Sonoma&message=14.0&color=green)
+![macOS version](https://img.shields.io/static/v1?label=MacOS-Sonoma&message=14.8.2&color=green)
 ![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.7-informational.svg)
 
 
