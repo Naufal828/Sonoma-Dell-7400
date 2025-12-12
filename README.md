@@ -48,6 +48,30 @@
 - https://github.com/corpnewt/ProperTree
 - https://github.com/0xCUB3/About-This-Hack
 
+## Functional
+
+-  QE/CI of Intel UHD 620
+-  Restart, Sleep and Shutdown
+-  CPU Power Management
+-  HDMI Out
+-  All Port USB, 2x USB 3.0, 2x USB 2.0, Type C Running USB 2.0 & 3.0
+-  Wifi
+-  Bluetooth
+-  Touchpad with gesture
+-  Keyboard
+-  Web Camera
+-  Hibernate, with hibernate mode 03
+
+## Doesn't Work
+- airdrop
+- screen mirroring from iphone
+- drm safari
+- 
+
+## Untested
+- AirDrop not tested on Intel AC 9560
+- thunderbolt untested
+- 
 ## Contact
  - [Contact](https://t.me/naufaliosk)
 
