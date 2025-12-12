@@ -37,7 +37,8 @@
 | Audio                | [Realtek® Audio Codec ALC295](https://github.com/acidanthera/applealc/wiki/supported-codecs)       |
 | IGPU                 | Intel® UHD Graphics 620        |
 | RAM                  | 8GB DDR4 2400Mhz                 |
-| Trackpad             | I2C HID
+| Trackpad             | I2C HID |
+| Keyboard             | PS2|
 | Wi-Fi Bluetooth      | Intel AC 9560                          |
 | Storage              | TOSHIBA KXG60ZNV256G   |
 
