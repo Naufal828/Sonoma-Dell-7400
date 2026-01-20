@@ -54,7 +54,7 @@
 -  QE/CI of Intel UHD 620
 -  Restart, Sleep and Shutdown
 -  -  Hibernate, with hibernate mode 03, default pmset, entering hibernate mode battery under 50%
--  CPU Power Management, with voltageshift undervolt -100mv, PL1 20, PL 25
+-  CPU Power Management, with voltageshift undervolt cpu offset and cpu cache voltage -100mv, PL1 20, PL 25
 -  HDMI Out
 -  All Port USB, 2x USB 3.0, 2x USB 2.0, Type C Running USB 2.0 & 3.0
 -  Wifi
