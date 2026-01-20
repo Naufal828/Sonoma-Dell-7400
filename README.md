@@ -53,26 +53,30 @@
 
 -  QE/CI of Intel UHD 620
 -  Restart, Sleep and Shutdown
--  CPU Power Management
+-  -  Hibernate, with hibernate mode 03, default pmset, entering hibernate mode battery under 50%
+-  CPU Power Management, with voltageshift undervolt -100mv, PL1 20, PL 25
 -  HDMI Out
 -  All Port USB, 2x USB 3.0, 2x USB 2.0, Type C Running USB 2.0 & 3.0
 -  Wifi
 -  Bluetooth
 -  Touchpad with gesture
+-  Touchscreen
 -  Keyboard
+-  audio jack 3.5mm, fix with alcplug
 -  Web Camera
--  Hibernate, with hibernate mode 03
+
 
 ## Doesn't Work
 - airdrop
 - screen mirroring from iphone
 - drm safari
-- 
+- find my devices
 
 ## Untested
 - AirDrop not tested on Intel AC 9560
 - thunderbolt untested
-- 
+- imessages, dont have iphone
+  
 ## Contact
  - [Contact](https://t.me/naufaliosk)
 
@@ -84,6 +88,7 @@
 - [Apple](https://www.apple.com) For MacOS
 - [Acidantera](https://github.com/acidanthera) The maker of OpenCore
 - [Dortania People](https://github.com/orgs/dortania/people) for the OpenCore Install Guide
+- 
 
 ## Screenshot
 <img src="https://github.com/Naufal828/Sonoma-Dell-7400/blob/main/Resource/Screenshot%202025-11-18%20at%2014.10.16.png" width="500"/>
