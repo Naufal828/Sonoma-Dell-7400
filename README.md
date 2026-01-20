@@ -67,14 +67,14 @@
 
 
 ## Doesn't Work
-- airdrop
-- screen mirroring from iphone
 - drm safari
 - find my devices
 
 ## Untested
 - AirDrop not tested on Intel AC 9560
 - thunderbolt untested
+- airdrop
+- screen mirroring from iphone
 - imessages, dont have iphone
   
 ## Contact
